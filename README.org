@@ -76,4 +76,4 @@ int main(int argc, char *argv[]) {
 * 代码统计
 [[./img/codes.png]]
 * TODO TODOS [0/1]
-- [ ] 常用数据数据的设计
+- [ ] 常用数据结构的设计
